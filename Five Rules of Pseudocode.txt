@@ -1,0 +1,6 @@
+The Rules of Pseudocode:
+1. Pseudocode must be created through written language.
+2. Pseudocode can be written through any medium.
+3. Pseudocode must define whether or not your algorithm's logic is correct.
+4. The better you plan, the easier it is to create your application.
+5. Pseudocode must be understandable by non-coders.
